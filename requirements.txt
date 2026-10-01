@@ -1,0 +1,6 @@
+Plaintext
+streamlit
+google-generativeai
+pandas
+pillow
+matplotlib
